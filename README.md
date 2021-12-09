@@ -1,2 +1,2 @@
 # tips-for-courses
-This is a basic guide for courses for students in Bioinformatics 
+这个资源库用来存放培养方案里的生信课程的资料链接和间接
