@@ -76,7 +76,7 @@ Q4：考试周交
 考试：使用机房电脑，断网，进行R coding
 * 学习难度：*★★★☆☆*
 * 考试难度：*★★☆☆☆*  
-[资料链接](待上传)
+[作业代码链接](https://github.com/CSUBioinformatics1801/R_Bioinformatics_ZYZ)
 
 ## 医学信息组(混合课)
 =医学信息组织+《中国图书馆图书分类法》
