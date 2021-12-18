@@ -64,7 +64,7 @@ Q4：考试周交
 ### 病案管理系统
 * 学习难度：*★★★★★*
 * 考试难度：*★★★★★*  
-
+[作业资源库](https://github.com/CSUBioinformatics1801/Medical_Record_Management_ZYZ)
 
 ## 蛋白质组信息学
 考试：准许使用电子设备，断网，开卷
@@ -85,6 +85,7 @@ Q4：考试周交
 考试：理论闭卷+虚空coding
 * 学习难度：*★★★★☆*
 * 考试难度：*★★☆☆☆*  
+[实习代码库](https://github.com/CSUBioinformatics1801/Medical_Information_Organization_ZYZ)
 
 ### 《中国图书馆图书分类法》
 考试：理论闭卷+实操准许使用《中国图书馆图书分类法》
