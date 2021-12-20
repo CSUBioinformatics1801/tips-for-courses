@@ -150,8 +150,8 @@
 
 100%=期末50%+讨论30%+实验20%
 代码库：
-* [ZYZ](https://github.com/CSUBioinformatics1801/C_ZYZ)
-* [LSW](https://github.com/CSUBioinformatics1801/C_LSW)
+* [C_ZYZ](https://github.com/CSUBioinformatics1801/C_ZYZ)
+* [C_LSW](https://github.com/CSUBioinformatics1801/C_LSW)
 * 期末：单选题40*1或20*1；程序填空20分；程序阅读，主要写出输出，20分；编程题2*10
 * 学习难度：*★★★☆☆*  
 * 考试难度：*★★★☆☆* 

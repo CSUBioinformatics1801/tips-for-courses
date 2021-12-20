@@ -7,4 +7,5 @@
 * [大二(下)](https://github.com/CSUBioinformatics1801/tips-for-courses/blob/main/sophomore_2_instruction.md)
 * [大三(上)](https://github.com/CSUBioinformatics1801/tips-for-courses/blob/main/junior_1_instructions.md)
 * [大三(下)](https://github.com/CSUBioinformatics1801/tips-for-courses/blob/main/junior_2_instructions.md)
-* [大四(上)](https://github.com/CSUBioinformatics1801/tips-for-courses/blob/main/senior_2_instructions.md)
+* [大四(上)](https://github.com/CSUBioinformatics1801/tips-for-courses/blob/main/senior_1_instructions.md)
+* [大四(下)](https://github.com/CSUBioinformatics1801/tips-for-courses/blob/main/senior_2_instructions.md)
