@@ -46,6 +46,9 @@
 详见资源库[parodyatals](https://github.com/CSUBioinformatics1801/parodyatlas)
 
 ## 形势与政策
-仅线上考试，50道选择题，题目见此上文链接  
+仅线上考试，50道选择题，题目见此上文链接 
+* 学习难度：*☆☆☆☆☆*
+* 考试难度：*☆☆☆☆☆*
+
 
 若链接失效，请留言至[*issue*](https://github.com/CSUBioinformatics1801/tips-for-courses/issues)
