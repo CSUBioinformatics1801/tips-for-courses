@@ -84,6 +84,7 @@ Q4：考试周交
 * 学习难度：*★★★☆☆*
 * 考试难度：*★★☆☆☆*  
 [作业代码链接](https://github.com/CSUBioinformatics1801/R_Bioinformatics_ZYZ)
+[19级课件链接](https://gitee.com/liukf10/r_bioinfo_2022)
 
 ## 医学信息组织(混合课)
 =医学信息组织+《中国图书馆图书分类法》
