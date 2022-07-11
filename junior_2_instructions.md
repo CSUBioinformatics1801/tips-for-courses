@@ -15,12 +15,12 @@
 
 ## 资料链接
 链接: https://pan.baidu.com/s/1675Kbp5tRhqpGIPanUkeww   
-提取码: s239 
-所有课程的压缩包都在里面，可自行选择
+提取码: s239   
+所有课程的压缩包都在里面，可自行选择  
 
-19级的一些补充课件：
-链接：https://pan.baidu.com/s/19wbVUusB5Wwg3yEcURSevw?pwd=db8f 
-提取码：db8f
+19级的一些补充课件：  
+链接：https://pan.baidu.com/s/19wbVUusB5Wwg3yEcURSevw?pwd=db8f   
+提取码：db8f  
 
 
 ## 体育课外测试（二）
@@ -88,8 +88,8 @@ Q4：考试周交
 考试：使用机房电脑，断网，进行R coding
 * 学习难度：*★★★☆☆*
 * 考试难度：*★★☆☆☆*  
-[作业代码链接](https://github.com/CSUBioinformatics1801/R_Bioinformatics_ZYZ)
-[19级课件链接](https://gitee.com/liukf10/r_bioinfo_2022)
+[作业代码链接](https://github.com/CSUBioinformatics1801/R_Bioinformatics_ZYZ)  
+[19级课件链接](https://gitee.com/liukf10/r_bioinfo_2022)  
 
 ## 医学信息组织(混合课)
 =医学信息组织+《中国图书馆图书分类法》
