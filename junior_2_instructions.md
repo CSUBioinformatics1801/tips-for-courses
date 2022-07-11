@@ -15,8 +15,13 @@
 
 ## 资料链接
 链接: https://pan.baidu.com/s/1675Kbp5tRhqpGIPanUkeww   
-提取码: s239  
-所有课程的压缩包都在里面，可自行选择  
+提取码: s239 
+所有课程的压缩包都在里面，可自行选择
+
+19级的一些补充课件：
+链接：https://pan.baidu.com/s/19wbVUusB5Wwg3yEcURSevw?pwd=db8f 
+提取码：db8f
+
 
 ## 体育课外测试（二）
 体测
