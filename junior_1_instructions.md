@@ -13,16 +13,23 @@
 |450325Z10| 	Python及其生物信息学应用| 	必修 	|1.5 |	32| 	16|	16 |	 
 |450110Z10 |	生物医药知识产权 |	选修 |	2 	|40 |	32 |8|
 
+## 资料链接
+链接: https://pan.baidu.com/s/16s16trroDjCvDeviFEVhSQ?pwd=g27n   
+提取码: g27n  
+微信扫描：  
+![image](https://user-images.githubusercontent.com/51025363/181212805-492218af-1ca8-4b54-8c73-b5053e3bf37b.png)
+
+
 ## 毛泽东思想和中国特色社会主义理论体系概论
 
 * 学习难度：*★★★★☆*
 * 考试难度：*★☆☆☆☆*  
-[资料链接](https://pan.baidu.com/s/1jnmJ7g0YMnIxtGo_kzUYHQ)   *密码: 8r8j*
 
 ## 习近平新时代中国特色社会主义思想概论
 
-未知，2021年新开  
-19级：考试闭卷，五道大题；（由于我们老师很水，上课基本没讲东西，基本没有啥课件）  
+**2019级**：  
+考试闭卷，五道大题；（由于19级老师很水，上课基本没讲东西，基本没有啥课件）  
+
 
 ## 体育课外测试（一）
 
@@ -33,37 +40,32 @@
 疾概二100%=外科学70%+妇产科学22%+传染病学8%
 * 学习难度：*★★★★★*
 * 考试难度：*★★★★★*  
-[资料链接](https://pan.baidu.com/s/17E3oyZeVtf6E7Siujho5OA)   *密码: eiwp*
 
 ## 医学信息管理基础
 医学信息管理基础100%=50%医学信息学+50%信息分析与预测
 ### 医学信息学
 * 学习难度：*★☆☆☆☆*
 * 考试难度：*★★★★☆*  
-[资料链接](https://pan.baidu.com/s/1YWma4o1bF6mhpIboVme7HA)   *密码: qav1*
 
 ### 信息分析与预测
 * 学习难度：*★★☆☆☆*
 * 考试难度：*★★★★★*    
-[资料链接](https://pan.baidu.com/s/1mJddu7XQG99OsEUU3jquIQ)   *密码: curv*  
 [项目地址](https://github.com/CSUBioinformatics1801/Information_Analysis_ZYZ)
 
 
 ## 数据结构 
 * 学习难度：*★★★★☆* 
 * 考试难度：*★★★☆☆*  
-[资料链接](https://pan.baidu.com/s/12Ht9uwdswyVACgdvmWyqWw)   *密码: 8n84*   
 [项目地址](https://github.com/CSUBioinformatics1801/Python_Bioinformatics_ZYZ)
 
 ## python及其生物信息学应用
 * 学习难度：*★★☆☆☆*
-* 考试难度：*★☆☆☆☆*  
-[资料链接](https://pan.baidu.com/s/1EfMvqvqnlMNYJDEg_btBaQ)   *密码: pleq*   
+* 考试难度：*★☆☆☆☆*    
 [项目地址](https://github.com/CSUBioinformatics1801/Data_Structure_ZYZ)
 
 ## 生物医药知识产权 
 * 学习难度：*★★★☆☆*
 * 考试难度：*★★★☆☆*  
-[资料链接](https://pan.baidu.com/s/107CdwqRXYtx1K2ja0X05VA)   *密码: u8ho*
 
-若链接失效，请留言至[*issue*](https://github.com/CSUBioinformatics1801/Data_Structure_ZYZ/issues)
+
+若链接失效，请留言至[*issue*](<img width="314" alt="image" src="https://user-images.githubusercontent.com/51025363/181211661-9a3cdbbf-024d-4c92-8aa5-5e6e87fd2bbf.png">)
